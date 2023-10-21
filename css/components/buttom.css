@@ -1,0 +1,14 @@
+.btn-red {
+
+	background-color: red;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: Helvetica, sans-serif;
+	transition: background-color 0.3s;
+}
+
+.btn-red:hover {
+    background-color: darkred;
+}
